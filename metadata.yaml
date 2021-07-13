@@ -1,0 +1,30 @@
+_repo: When-Titans-Drive_65760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, George William
+    - Patten, Gilbert
+    - Patten, William G. (William Gilbert)
+    - Patten, William Gilbert
+    - Wilder, William West
+    - Wilder, William W. (William West)
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2021-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: When Titans Drive
+url: http://www.gutenberg.org/ebooks/65760
